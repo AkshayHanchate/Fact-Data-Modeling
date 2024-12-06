@@ -3,12 +3,11 @@ Welcome to the Fact Data Modeling repository! This repository is a part of my le
 
 **📚 What You’ll Find Here:**
 This repository contains the following key concepts and examples:
-
-- **1. Fact Data Modeling Basics:**
+**1. Fact Data Modeling Basics:**
 Overview of Fact Tables: Key metrics and measures for analysis.
 Understanding the role of Dimensions in supporting facts.
 
-- **2. Advanced Techniques**
+**2. Advanced Techniques**
 - Datelist Data Structure:
 Explores how to model and manage date-based dimensions efficiently.
 Use cases in time-series analysis and periodic data aggregation.
