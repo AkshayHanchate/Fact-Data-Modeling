@@ -9,13 +9,13 @@ Overview of Fact Tables: Key metrics and measures for analysis.
 Understanding the role of Dimensions in supporting facts.
 
 **2. Advanced Techniques**
-Datelist Data Structure:
+- Datelist Data Structure:
 Explores how to model and manage date-based dimensions efficiently.
 Use cases in time-series analysis and periodic data aggregation.
-Blurring Lines Between Facts and Dimensions:
+- Blurring Lines Between Facts and Dimensions:
 Insights into hybrid models where traditional distinctions between facts and dimensions are minimized.
 Practical examples of mixed-use cases.
-Reducing Shuffle with Reduced Facts:
+- Reducing Shuffle with Reduced Facts:
 Techniques to minimize shuffle in distributed systems.
 Optimizing fact tables for faster queries and reduced computational overhead.
 
