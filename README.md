@@ -19,7 +19,7 @@ Techniques to minimize shuffle in distributed systems.
 Optimizing fact tables for faster queries and reduced computational overhead.
 
 
-** Tech Stack:**
+**Tech Stack:**
 The following tools and technologies are used throughout the exercises:
 
 - SQL: To define and query data models.
@@ -27,7 +27,7 @@ The following tools and technologies are used throughout the exercises:
 - Databricks: Collaborative environment for scalable data engineering tasks.
 
 
-** Topics Covered:**
+**Topics Covered:**
 - Data modeling principles with a focus on analytical systems.
 - Techniques for optimizing fact tables and their interactions with dimensions.
 - Best practices for handling large-scale datasets in distributed environments.
